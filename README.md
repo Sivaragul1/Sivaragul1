@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working at **STQC **
+ 🔭 I’m currently working at **STQC**
  
  🌱 I’m currently learning **Selenium**
 
