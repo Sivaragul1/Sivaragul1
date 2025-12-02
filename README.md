@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working at **STQC**
+ 🔭 I’m currently working at **INCEDO INC**
  
- 🌱 I’m currently learning **Selenium**
+ 🌱 I’m currently learning **DB**
 
 
  </div>
@@ -30,8 +30,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,selenium,gherkin,maven,cypress,postman,docker,eclipse,idea,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,anaconda,mysql,vscode,pycharm,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=java,selenium,gherkin,maven,postman,docker,eclipse,idea,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,anaconda,mysql,sqlite,vscode,pycharm,figma" /><br>
 </div>
 
 <br/>
